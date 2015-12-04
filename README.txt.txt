@@ -6,3 +6,4 @@ a
 2***
 aaaaa
 z
+shichi
