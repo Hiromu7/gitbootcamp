@@ -1,6 +1,3 @@
-jjjjjjjj
-ggggggg
-c
-hiromu
-cc
-dd
+-memo1
+-memo2
+-memo3
